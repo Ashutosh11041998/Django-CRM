@@ -4,7 +4,7 @@ import mysql.connector
 config = {
     'host': 'localhost',
     'user': 'root',
-    'passwd': 'aks@1998',
+    'passwd': '',#write your password
     'auth_plugin': 'caching_sha2_password',
     'port': 5432  # Specify the port you have configured in your MySQL server.
 }
