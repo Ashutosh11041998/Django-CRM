@@ -1,4 +1,4 @@
-# CRM Project README(made from Chat GPT)
+# CRM Project README
 
 ## Table of Contents
 - [Introduction](#introduction)
