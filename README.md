@@ -16,11 +16,17 @@
 
 ## Introduction
 Welcome to the CRM (Customer Relationship Management) project built using Django and MySQL. This CRM system allows users to manage customer information, including creating, reading, updating, and deleting customer records. User authentication is integrated to ensure data security, and Bootstrap is used for the frontend to enhance the user experience.
+
 Register:<img width="942" alt="image" src="https://github.com/Ashutosh11041998/Django-CRM/assets/44100474/0773c77e-75af-4c69-8868-c3c9630fd620">
+
 Login:<img width="764" alt="image" src="https://github.com/Ashutosh11041998/Django-CRM/assets/44100474/a2e3c69d-21bf-457e-b52c-1f8faf5af2b5">
+
 Create:<img width="723" alt="image" src="https://github.com/Ashutosh11041998/Django-CRM/assets/44100474/f76826c0-b9cd-4b5b-ae75-21dfcb6d2a63">
+
 Read:<img width="939" alt="image" src="https://github.com/Ashutosh11041998/Django-CRM/assets/44100474/49064ad6-d6cf-4584-864c-a74469b24320">
+
 Read individual, or navigate to update or delete the record:<img width="637" alt="image" src="https://github.com/Ashutosh11041998/Django-CRM/assets/44100474/0207ad4a-b7a0-4a38-882f-457ade40e8c9">
+
 Update:<img width="709" alt="image" src="https://github.com/Ashutosh11041998/Django-CRM/assets/44100474/895c715c-9702-4fcd-a7b4-01352a9b2aad">
 
 ## Features
